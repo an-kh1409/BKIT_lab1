@@ -1,0 +1,7 @@
+D:\Visual Studio projects\lab1\bkit_lab1\bin\Debug\bkit_lab1.exe.config
+D:\Visual Studio projects\lab1\bkit_lab1\bin\Debug\bkit_lab1.exe
+D:\Visual Studio projects\lab1\bkit_lab1\bin\Debug\bkit_lab1.pdb
+D:\Visual Studio projects\lab1\bkit_lab1\obj\Debug\bkit_lab1.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\lab1\bkit_lab1\obj\Debug\bkit_lab1.csproj.CoreCompileInputs.cache
+D:\Visual Studio projects\lab1\bkit_lab1\obj\Debug\bkit_lab1.exe
+D:\Visual Studio projects\lab1\bkit_lab1\obj\Debug\bkit_lab1.pdb
